@@ -2,10 +2,37 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Information Retrieval
 
-Organize your courses by years, topics, or universities, however you like!
+- Introduction to Information Retrieval.
+- Search engine architecture:
+	- web crawler
+	- basic text analysis techniques
+	- inverted index
+	- query processing
+	- search result interface
+- IR models:
+	- Boolean.
+	- Vector space.
+- Evaluation in Information Retrieval
+- Relevance feedback and query expansion.
+- Link analysis.
+- Search Applications: Question answering, Social Search.
+
+
+# Semantic Web
+ 
+- Introduction to semantic Web
+- Semantic Web Basic Architecture:
+	- RDF
+	- RDF Schema
+	- SPARQL
+Knowledge representation:
+	- Ontology
+	- Logic
+	- OWL
+- Semantic application: Ontological Engineering , Semantic Web and linking data
